@@ -10,10 +10,10 @@ And insted we also added a feature where other users can tip some amount of Ethe
 
 ## Team Members:
 
-1. [Achyuth Mohan](https://github.com/AchyuthMohan)
+<!-- 1. [Achyuth Mohan](https://github.com/AchyuthMohan)
 2. [Adithya Ajith](https://github.com/XdithyX)
 3. [Jagannath E Shahi](https://github.com/Jagannathes)
-4. [Jaison Dennis](https://github.com/jaison080)
+4. [Jaison Dennis](https://github.com/jaison080) -->
 
  ## 🔧 Project UI:
 ![Project Diagram](https://github.com/AchyuthMohan/Blockchain-decentragram/blob/master/public/images/Screenshot%20(24).png) 

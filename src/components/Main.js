@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import Identicon from 'identicon.js';
-
+import './main.css';
 class Main extends Component {
 
   render() {
     return (
-      <div style={{ backgroundColor:'#B2BEB5'}} className="container-fluid mt-5">
+      <div style={{ color:'white',backgroundColor: '#0047b3'}} className="container-fluid mt-5">
         <div className="row">
           <main role="main" className="col-lg-12 ml-auto mr-auto" style={{ maxWidth: '500px' }}>
             <div className="content mr-auto ml-auto">

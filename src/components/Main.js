@@ -16,7 +16,7 @@ class Main extends Component {
                 const description = this.imageDescription.value
                 this.props.uploadImage(description)
               }} >
-                <input type='file' accept=".jpg, .jpeg, .png, .bmp, .gif" onChange={this.props.captureFile} />
+                <input type='file' accept=" .mp4 .jpg, .jpeg, .png, .bmp, .gif" onChange={this.props.captureFile} />
                   <div className="form-group mr-sm-2">
                     <br></br>
                       <input
@@ -45,7 +45,7 @@ class Main extends Component {
                     <ul id="imageList" className="list-group list-group-flush">
                       <li className="list-group-item">
                         <p class="text-center"><img src={`https://ipfs.infura.io/ipfs/${image.hash}`} style={{ maxWidth: '420px'}}/></p>
-                        <p>{image.description}</p>
+                        <p style={{color:'black'}}>{image.description}</p>
                       </li>
                       <li key={key} className="list-group-item py-2">
                         <small className="float-left mt-1 text-muted">
@@ -55,12 +55,12 @@ class Main extends Component {
                           className="btn btn-link btn-sm float-right pt-0"
                           name={image.id}
                           onClick={(event) => {
-                            let tipAmount = window.web3.utils.toWei('0.1', 'Ether')
+                            let tipAmount = window.web3.utils.toWei('0.001', 'Ether')
                             console.log(event.target.name, tipAmount)
                             this.props.tipImageOwner(event.target.name, tipAmount)
                           }}
                         >
-                          TIP 0.1 ETH
+                          TIP 0.001 ETH
                         </button>
                       </li>
                     </ul>

@@ -40,6 +40,7 @@ npm start
 ## Technologies used:
 Front-end: React.js, Bootstrap, Web3.js.<br></br>
 Smart Contracts: Solidity<br></br>
+Blockchain used: Ethereum<br></br>
 Cloud platforms: Remix's Rinkeby test net(smart contracts), Cloudflare(Front end).
 
 

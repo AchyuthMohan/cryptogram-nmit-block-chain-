@@ -5,6 +5,7 @@ class Main extends Component {
 
   render() {
     return (
+      <>
       <div style={{ color:'white',backgroundColor: '#0047b3'}} className="container-fluid mt-5">
         <div className="row">
           <main role="main" className="col-lg-12 ml-auto mr-auto" style={{ maxWidth: '500px' }}>
@@ -30,8 +31,15 @@ class Main extends Component {
                 <button type="submit" class="btn btn-primary btn-block btn-lg">Upload!</button>
               </form>
               <p>&nbsp;</p>
+            </div>
+          </main>
+        </div>
+      </div> 
+
+     <div className='row' style={{marginTop:"20px", marginLeft:"15px", marginRight:"15px"}}>
               { this.props.images.map((image, key) => {
                 return(
+                 <div className='col-md-4'>
                   <div className="card mb-4" key={key} >
                     <div className="card-header">
                       <img
@@ -65,12 +73,11 @@ class Main extends Component {
                       </li>
                     </ul>
                   </div>
+                </div>
                 )
               })}
             </div>
-          </main>
-        </div>
-      </div>
+      </>
     );
   }
 }

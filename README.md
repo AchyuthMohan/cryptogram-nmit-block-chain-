@@ -10,13 +10,14 @@ And insted we also added a feature where other users can tip some amount of Ethe
 
 ## Team Members:
 
-<!-- 1. [Achyuth Mohan](https://github.com/AchyuthMohan)
-2. [Adithya Ajith](https://github.com/XdithyX)
-3. [Jagannath E Shahi](https://github.com/Jagannathes)
-4. [Jaison Dennis](https://github.com/jaison080) -->
+ 1. [Achyuth Mohan](https://github.com/AchyuthMohan)
+2. [Christopher Roy](https://github.com/ChrizRoy)
+3. [Abhishek Kurian](https://github.com/omen1650ti)
+
 
  ## 🔧 Project UI:
-![Project Diagram](https://github.com/AchyuthMohan/Blockchain-decentragram/blob/master/public/images/Screenshot%20(24).png) 
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/75477017/165934904-28160451-b730-4822-91f0-12b7fcc9f5ae.png">
+
 # Steps To run the project:
 ```bash
 git clone https://github.com/AchyuthMohan/Blockchain-decentragram

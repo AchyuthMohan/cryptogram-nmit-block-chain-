@@ -60,7 +60,7 @@ class Main extends Component {
                             this.props.tipImageOwner(event.target.name, tipAmount)
                           }}
                         >
-                          TIP 0.001 ETH
+                          TIP ETHS
                         </button>
                       </li>
                     </ul>

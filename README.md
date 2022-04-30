@@ -1,9 +1,10 @@
 # Decentralized Social Media web app using Ethereum Blockchain.
 
 ## Team Details
-Team Name : <b>TECH MINDS</b> <br></br>
-Project Name : <b>CryptoGram</b> <br></br>
-Stack Used: <b>Blockchain </b><br></br>
+Team Name : **TECH MINDS**<br></br>
+Project Name : **CryptoGram**<br></br>
+Stack Used: **Blockchain**<br></br>
+Live URL: **https://cryptogram-nmit-block-chain.pages.dev/** <br></br>
 
 
 ## Project Description

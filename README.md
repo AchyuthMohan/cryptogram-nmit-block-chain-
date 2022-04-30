@@ -1,7 +1,10 @@
 # Decentralized Social Media web app using Ethereum Blockchain.
 
 ## Team Details
-Team Name : <b>TECH MINDS</b> <br></br>id: 72a0c21c36
+Team Name : <b>TECH MINDS</b> <br></br>
+Project Name : <b>CryptoGram</b> <br></br>
+Stack Used: <b>Blockchain </b><br></br>
+
 
 ## Project Description
 A completely decentralized social media website that enables users to interact with their friends and relatives without compromising their privacy and personal info. It has all the functionalities of a traditional social media app like user profiles, friends, feed, posts, chat, etc. All the data including image files will be stored in a secure decentralized network(IPFS) and no entity ( government or private) has any control over it, thus giving the users total assurance of their privacy.
@@ -22,7 +25,7 @@ And insted we also added a feature where other users can tip some amount of Ethe
 ```bash
 git clone https://github.com/AchyuthMohan/Blockchain-decentragram
 cd Blockchain-decentragram
-git checkout master
+git checkout main
 npm install
 npm start
 ```
@@ -35,4 +38,8 @@ npm start
 6. Deploy the project and paste the generated address into our networks section in package-lock.json file.
 
 ## Technologies used:
- React js for Front-End, Web3 js, npm truffle, solidity for contracts scripting and Ethereum blockchain.
+Front-end: React.js, Bootstrap, Web3.js.<br></br>
+Smart Contracts: Solidity<br></br>
+Cloud platforms: Remix's Rinkeby test net(smart contracts), Cloudflare(Front end).
+
+

@@ -14,9 +14,12 @@ And insted we also added a feature where other users can tip some amount of Ethe
 
 ## Team Members:
 
- 1. [Achyuth Mohan](https://github.com/AchyuthMohan)
+1. [Achyuth Mohan](https://github.com/AchyuthMohan)
 2. [Christopher Roy](https://github.com/ChrizRoy)
 3. [Abhishek Kurian](https://github.com/omen1650ti)
+4. [Adithya Ajith](https://github.com/XdithyX)
+5. [Jagannath E Shahi](https://github.com/Jagannathes)
+6. [Jaison Dennis](https://github.com/jaison080)
 
 
  ## 🔧 Project UI:

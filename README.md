@@ -23,7 +23,7 @@ And insted we also added a feature where other users can tip some amount of Ethe
 
 
  ## 🔧 Project UI:
-<img width="954" alt="image" src="https://user-images.githubusercontent.com/75477017/165934904-28160451-b730-4822-91f0-12b7fcc9f5ae.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/75477017/167283589-4f7a79f3-1b30-42d1-800f-bedf5b6bf114.png">
 
 # Steps To run the project:
 ```bash
